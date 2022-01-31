@@ -13,8 +13,23 @@ The business of sport depends on the volume of spectators that elite competition
 The data sources for the project were: Eurostat, epdata, Ministerio de Educación, Cultura y Deporte (Spain).
 
 From these sources, i could obtain:
+
 -Reasons for non-participation in sporting events in the last 12 months.
+
 -Frequency of participation in these events by type of household, educational level, age, sex.
+
 -Minimum wages in the EU in purchasing power parity in 2021.
+
 -Type of attendance at events in Spain.
+
 -Most followed sports in Spain.
+
+## Data Processing
+
+When working with a large number of files, columns and rows have to be equivalent. A cleaning of the data was carried out. It was done: deletion of columns and rows, rename of columns, change of string variables to numeric, merge.
+
+## Data Analysis
+
+In the countries of the European Union (EU), sports interest is being lost. However, I wanted to focus on the financial reasons why people don't attend these events.
+
+<img src="images/reasons.png">
