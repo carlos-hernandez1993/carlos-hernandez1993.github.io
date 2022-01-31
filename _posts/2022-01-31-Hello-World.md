@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Data Science and Data Analysis - Portfolio
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In this portfolio, I make a summary of some projects that I have carried out. Projects about exploratory data analysis (EDA) and machine learning.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
