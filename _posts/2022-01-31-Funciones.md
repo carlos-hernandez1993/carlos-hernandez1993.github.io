@@ -32,4 +32,4 @@ When working with a large number of files, columns and rows have to be equivalen
 
 In the countries of the European Union (EU), sports interest is being lost. However, I wanted to focus on the financial reasons why people don't attend these events.
 
-imagen1: https://raw.githubusercontent.com/carlos-hernandez1993/carlos-hernandez1993.github.io/master/images/reasons.png
+background-image: url('images/reasons.png');
