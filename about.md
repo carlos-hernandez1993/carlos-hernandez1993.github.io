@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I'm Carlos, a data scientist and data analyst with previous studies in Geology and Geochemistry.
+
+I wish build bridges between people and information and use the power of Data to improve decision-making processes.
+
+My studies have allowed me to have analytical and methodical thinking when facing different problems, always trying to reach a good solution.
 
 ### More Information
 
@@ -12,4 +16,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[carlosluis220993@gmail.com](mailto:carlosluis220993@gmail.com)
