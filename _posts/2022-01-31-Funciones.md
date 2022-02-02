@@ -30,7 +30,15 @@ When working with a large number of files, columns and rows have to be equivalen
 
 ## Data Analysis
 
-In the countries of the European Union (EU), sports interest is being lost. However, I wanted to focus on the financial reasons why people don't attend these events.
+1. In the countries of the European Union (EU), sports interest is being lost. However, I wanted to focus on the financial reasons why people don't attend these events.
 
 ![Getting Started](https://raw.githubusercontent.com/carlos-hernandez1993/carlos-hernandez1993.github.io/master/images/reasons.png)
+
+2. Top 5 countries where the financial reason for not attending sporting events is greater.
+
+![Getting Started](https://raw.githubusercontent.com/carlos-hernandez1993/BOOTCAMP_EDA/main/PROYECTO/Visualizaci%C3%B3n/financial_reasons_countries.png)
+
+3. There is a relation between financial reasons and minimum wage in purchasing power parity
+
+![Getting Started](https://raw.githubusercontent.com/carlos-hernandez1993/BOOTCAMP_EDA/main/PROYECTO/Visualizaci%C3%B3n/salario_minimo.png)
 
