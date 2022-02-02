@@ -18,23 +18,7 @@ Data taken from Data World Database:
 
 -7 categorical variables and 1 numerical variable.
 
--Variables:
-
-    *Customer.
-
-    *Number of travelers.
-
-    *Ticket price(Pounds Sterling).
-
-    *Ticket class.
-
-    *Date.
-
-    *114 Cities of Origin.
-
-    *200 Destination Cities.
-
-    *67 Airlines.
+-Variables: customer, number of travelers, ticket price(Pounds Sterling), ticket class, date, 114 cities of origin, 200 destination cities, 67 airlines.
 
 ## Base City Proposal for Operations Center
 
