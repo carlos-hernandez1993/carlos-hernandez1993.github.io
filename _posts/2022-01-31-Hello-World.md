@@ -19,6 +19,7 @@ Data taken from Data World Database:
 -7 categorical variables and 1 numerical variable.
 
 -Variables:
+
     *Customer.
 
     *Number of travelers.
@@ -32,7 +33,7 @@ Data taken from Data World Database:
     *114 Cities of Origin.
 
     *200 Destination Cities.
-    
+
     *67 Airlines.
 
 ## Base City Proposal for Operations Center
