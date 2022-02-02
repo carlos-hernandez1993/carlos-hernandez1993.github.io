@@ -20,12 +20,19 @@ Data taken from Data World Database:
 
 -Variables:
     *Customer.
+
     *Number of travelers.
+
     *Ticket price(Pounds Sterling).
+
     *Ticket class.
+
     *Date.
+
     *114 Cities of Origin.
+
     *200 Destination Cities.
+    
     *67 Airlines.
 
 ## Base City Proposal for Operations Center
