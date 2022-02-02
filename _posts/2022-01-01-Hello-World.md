@@ -56,3 +56,8 @@ Models not selected: Linear and Polynomial Regression, Gradient Boosting Regress
 
 The Random Forest Regression model can predict ticket prices depending on the place of origin, destination, airline, month, day and class of the ticket.
 
+## Code
+
+To see more about code, you can see this: 
+
+[Link display text - Document](https://github.com/carlos-hernandez1993/BOOTCAMP_MACHINE_LEARNING)
